@@ -16,7 +16,7 @@ This Python script splits your Google Takeout location history JSON file into se
 
 4. Navigate to the directory containing the script.
 
-5. Run the script with the following command, replacing `your_location_history.json` with the path to your Google Takeout location history JSON file:
+Run the script with the following command, where `your_location_history.json` is the path to your Google Takeout location history JSON file:
 
 ```bash
 python split_location_history.py your_location_history.json
